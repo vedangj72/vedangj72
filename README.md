@@ -1,10 +1,15 @@
 <div align="center">
 
-Hi, I'm Vedang Joshi
 
-Android Engineer • Kotlin Multiplatform Developer • Open-Source Maintainer
 
-I build production Android applications, cross-platform products, reusable SDKs, backend services, and developer-focused tools.
+
+
+<p>
+  <a href="mailto:vedangjoshi772@gmail.com"><img src="https://img.shields.io/badge/Email-vedangjoshi772%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vedang-joshi-70117220b/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://itsmevedangjoshi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/vedangj72"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 
 
@@ -12,368 +17,176 @@ I build production Android applications, cross-platform products, reusable SDKs,
 
 <div align="center">
 
+🐍 My contribution journey
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangj72/vedangj72/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangj72/vedangj72/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vedangj72/vedangj72/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-About Me
+👨‍💻 A little about me
 
-val vedang = Developer(
-    role = "Android & Kotlin Multiplatform Engineer",
-    experience = "2+ years",
-    location = "Pune, India",
-    primaryStack = listOf(
-        "Kotlin",
-        "Jetpack Compose",
-        "Android XML",
-        "Kotlin Multiplatform"
-    ),
-    interests = listOf(
-        "Mobile Architecture",
-        "Open Source",
-        "Responsive UI",
-        "Media Applications",
-        "Backend Development",
-        "AI-powered Products"
-    ),
-    currentlyBuilding = listOf(
-        "KitFlow",
-        "Garage XO",
-        "Cross-platform applications"
-    )
-)
+<img align="right" width="300" alt="Developer coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Software Engineer with 2+ years of Android development experience
+📱 Android & KMP Engineer with 2+ years of experience
 
-Building production applications using Kotlin, Jetpack Compose, XML, and KMP
+🚀 Shipped 2 Android apps on Google Play
 
-Published 2 Android applications on Google Play
+📦 Published KitFlow on Maven Central
 
-Published KitFlow, an open-source KMP SDK, on Maven Central
+⚡ Build real-time AI, media, and cross-platform experiences
 
-Experienced with media streaming, AI workflows, SSE, REST APIs, and SDK development
+🧱 Prefer clean architecture, predictable state, and reusable APIs
 
-Building backend services using Ktor, PostgreSQL, REST APIs, JWT, and Docker
+🌱 Currently building Garage XO and exploring DragCompose
 
-Interested in scalable mobile architecture, performance, testing, and developer experience
+📍 Based in Pune, India
 
-Tech Stack
+📬 Reach me at vedangjoshi772@gmail.com
+
+<br clear="right"/>
+
+🛠️ Tech carousel
+
+<div align="center">
 
 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,html,css,postgres" alt="Languages" />
-</p>
 
 
+Mobile & multiplatform
 
-Android & Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase" alt="Android Stack" />
-</p>
 
 
 
-Android Experience
+Frameworks, data & delivery
 
-Jetpack Compose and Android XML
 
-Android SDK and platform APIs
-
-Navigation Component
-
-Coroutines, Flow and StateFlow
-
-WorkManager and background processing
-
-Room, SQLite and SharedPreferences
-
-Media3 and ExoPlayer
-
-Accessibility Services and MediaSession
-
-Firebase Cloud Messaging
-
-Responsive phone, tablet, foldable and desktop layouts
-
-Custom Views, MotionLayout and Compose animations
-
-Play Store publishing, versioning and signing
-
-Architecture & Engineering
-
-
-
-MVVM and MVI
-
-Clean Architecture
-
-Modular application design
-
-Repository Pattern
-
-Dependency Injection with Koin and Hilt
-
-State management using StateFlow and LiveData
-
-State hoisting and unidirectional data flow
-
-Reusable SDK and library design
-
-Platform abstraction using KMP expect and actual
-
-Networking, Realtime & Media
-
-
-
-REST and JSON API integration
-
-Retrofit and Ktor Client
-
-Server-Sent Events for live AI progress
-
-Socket.IO for real-time communication
-
-Pre-signed media upload workflows
-
-Coil and Glide image loading
-
-Media playback and lifecycle management
-
-Retry, cancellation, pagination and error-state handling
-
-Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ktor,postgres,docker" alt="Backend Stack" />
-</p>
-
-
-
-Ktor Server
-
-REST API design
-
-JWT authentication and refresh tokens
-
-Role-based authorization
-
-PostgreSQL and relational schema design
-
-Database schema design
-
-Search, pagination and filtering
-
-Error handling and API validation
-
-Dockerized backend deployment
-
-DevOps, Cloud & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,gradle" alt="Development and delivery tools" />
-</p>
-
-
-
-Testing & Quality
-
-
-
-JUnit
-
-Kotlin Test
-
-MockK
-
-Turbine
-
-Compose UI Testing
-
-Unit and ViewModel testing
-
-API and repository testing
-
-Error, loading and empty-state validation
-
-Android Studio profiling and debugging
-
-Featured Projects
-
-KitFlow
-
-Open-source adaptive UI SDK for Kotlin Multiplatform and Compose Multiplatform.
-
-
-
-Responsive layouts and adaptive values
-
-Mobile, tablet, foldable, desktop and web breakpoints
-
-Orientation-aware UI
-
-Adaptive spacing, sizing and typography
-
-Accessibility-focused APIs
-
-Published on Maven Central
-
-Supports Android, iOS, Web and Desktop
-
-My Player
-
-Offline Android media player published on Google Play with 500+ downloads.
-
-
-
-The source repository is private. The published application is available through Google Play.
-
-Kotlin and Android XML
-
-ExoPlayer and Media3
-
-Offline media playback
-
-Playlist management
-
-Picture-in-Picture
-
-Background playback
-
-Subtitle support
-
-Custom playback controls
-
-Multi-format media support
-
-Fuse
-
-Cross-platform social media application built using Kotlin Multiplatform.
-
-
-
-The source repository is private. The published application is available through Google Play.
-
-Kotlin Multiplatform
-
-Android and iOS
-
-Authentication and profiles
-
-Real-time chat using Socket.IO
-
-Push notifications
-
-Media-rich social feed
-
-AI-powered workflows
-
-Shared repositories and ViewModels
-
-REST API integration
-
-Optimistic UI updates
-
-Garage XO
-
-Full-stack garage and vehicle service platform.
-
-
-
-
-
-KMP frontend for Android, iOS and Web
-
-Ktor backend
-
-PostgreSQL
-
-JWT authentication
-
-Role-based access
-
-User, vehicle, garage and service modules
-
-Docker deployment
-
-Responsive UI using KitFlow
-
-Professional Experience Highlights
-
-Built production Android and Kotlin Multiplatform features
-
-Established shared KMP architecture for Android and iOS
-
-Integrated multiple AI-powered tools
-
-Implemented real-time AI progress using Server-Sent Events
-
-Integrated media SDKs and platform-specific services
-
-Worked with FCM, APNs and Apple Sign-In
-
-Built video streaming and playback experiences
-
-Maintained Kotlin, Java and Android XML codebases
-
-Implemented Accessibility Services and MediaSession workflows
-
-Delivered Android and iOS release builds
-
-Collaborated with design, backend, QA and product teams
-
-Currently Working On
-
-KitFlow       → Adaptive UI and developer experience
-Garage XO     → KMP frontend and hosted Ktor backend
-Android       → Compose, architecture, testing and performance
-DSA           → Interview-focused problem solving
-
-GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedangj72&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangj72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vedangj72&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedangj72&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-GitHub language statistics show the languages present in my public repositories and do not represent my exact proficiency level.
-
-Developer Philosophy
-
-Build useful products.
-Write maintainable code.
-Learn through real projects.
-Share knowledge through open source.
-Improve one release at a time.
-
-Connect With Me
-
-<div align="center">
 
 
 
 </div>
 
+<details>
+<summary><b>🔍 View my complete engineering toolkit</b></summary>
+
+Android: Compose, XML, Navigation, WorkManager, Room, Media3, ExoPlayer, MotionLayout
+
+KMP: Compose Multiplatform, Ktor Client, Koin, shared ViewModels, expect/actual
+
+Architecture: MVVM, MVI, Clean Architecture, UDF, Repository Pattern
+
+Realtime & media: SSE, Socket.IO, Coil, Glide, pre-signed uploads
+
+Backend: Ktor Server, PostgreSQL, JWT, Docker
+
+Testing: JUnit, Kotlin Test, MockK, Turbine, Compose UI Testing
+
+</details>
+
+🚀 Featured projects
+
+📦 KitFlow — Open-source KMP SDK
+
+
+
+Adaptive Compose UI for Android, iOS, Web, and Desktop
+
+Responsive breakpoints, spacing, sizing, and typography
+
+Orientation-aware layouts and text enlargement
+
+KMP Compose Multiplatform Open Source Maven Central
+
+🎬 My Player — Published Android app
+
+
+
+Offline playback with 500+ downloads
+
+Playlists, subtitles, PiP, and custom controls
+
+MotionLayout transitions and multi-format support
+
+Kotlin XML Media3 ExoPlayer MotionLayout
+
+💬 Fuse — KMP social app
+
+
+
+Android and iOS from a shared KMP foundation
+
+Media feed, profiles, notifications, and authentication
+
+Real-time Socket.IO chat with optimistic updates
+
+KMP Compose Multiplatform Ktor Koin Socket.IO
+
+🚗 Garage XO — Full-stack KMP platform
+
+
+
+Shared Android, iOS, and Web frontend
+
+Vehicle, garage, service, and role-based workflows
+
+Ktor backend with PostgreSQL, JWT, and Docker
+
+KMP Ktor PostgreSQL JWT Docker KitFlow
+
+💼 Production highlights
+
+Logituit · Android Developer · Jun 2024 — Present
+
+Built production Android and KMP features across Kotlin, Java, XML, and Compose
+
+Established shared Android/iOS architecture and platform integrations
+
+Integrated AI media tools with real-time SSE progress
+
+Worked with FCM, APNs, Apple Sign-In, Accessibility Services, and MediaSession
+
+Delivered resilient API flows, SDK integrations, and Android/iOS releases
+
+📊 GitHub activity
+
 <div align="center">
 
-Open to Android, Kotlin Multiplatform, Mobile Engineer and SDE opportunities
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedangj72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Vedang's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangj72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Public repository languages" />
 
-<sub>Thanks for visiting my profile.</sub>
+<img width="70%" src="https://streak-stats.demolab.com?user=vedangj72&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedangj72&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<sub>Language statistics represent public repositories—not overall proficiency.</sub>
+
+</div>
+
+🔭 Building next
+
+KitFlow → Better adaptive Compose developer experience
+
+Garage XO → Shared KMP product across Android, iOS, and Web
+
+DragCompose → Visual drag-and-drop tooling for Jetpack Compose
+
+DSA → Consistent interview-focused problem solving
+
+<div align="center">
+
+🤝 Let's build something useful
+
+Android • Kotlin Multiplatform • SDKs • Developer tooling
+
+Open to Mobile Engineer and SDE opportunities
+
+
+
+
 
 </div>
