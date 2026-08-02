@@ -31,62 +31,93 @@
 
 <img align="right" width="300" alt="Developer coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-📱 Android & KMP Engineer with 2+ years of experience
+📱 Android & KMP Engineer with 2+ years of experience, 2 published Android apps, and an open-source KMP SDK on Maven Central.
 
-🚀 Shipped 2 Android apps on Google Play
-
-📦 Published KitFlow on Maven Central
-
-⚡ Build real-time AI, media, and cross-platform experiences
-
-🧱 Prefer clean architecture, predictable state, and reusable APIs
-
-🌱 Currently building Garage XO and exploring DragCompose
-
-📍 Based in Pune, India
-
-📬 Reach me at vedangjoshi772@gmail.com
+⚡ Building mobile, web, backend, real-time AI, media, and developer-tooling projects from Pune, India.
 
 <br clear="right"/>
 
-🛠️ Tech carousel
+🛠️ Technologies I work with
 
 <div align="center">
 
-Languages
+Languages & web foundations
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+</p>
 
 
 
-Mobile & multiplatform
+Android & multiplatform
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" title="Android Studio" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="48" height="48" alt="Gradle" title="Gradle" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" />
+</p>
 
 
 
+Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" title="Redux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+</p>
 
 
-Frameworks, data & delivery
+
+Backend & realtime
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" title="Express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" width="48" height="48" alt="Ktor" title="Ktor" />
+</p>
 
 
+
+Databases & storage
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" title="Supabase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+</p>
+
+
+
+Architecture, libraries & testing
+
+
+
+DevOps, cloud & tooling
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" title="Google Cloud" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" title="Postman" />
+</p>
 
 
 
 </div>
-
-<details>
-<summary><b>🔍 View my complete engineering toolkit</b></summary>
-
-Android: Compose, XML, Navigation, WorkManager, Room, Media3, ExoPlayer, MotionLayout
-
-KMP: Compose Multiplatform, Ktor Client, Koin, shared ViewModels, expect/actual
-
-Architecture: MVVM, MVI, Clean Architecture, UDF, Repository Pattern
-
-Realtime & media: SSE, Socket.IO, Coil, Glide, pre-signed uploads
-
-Backend: Ktor Server, PostgreSQL, JWT, Docker
-
-Testing: JUnit, Kotlin Test, MockK, Turbine, Compose UI Testing
-
-</details>
 
 🚀 Featured projects
 
@@ -96,9 +127,7 @@ Testing: JUnit, Kotlin Test, MockK, Turbine, Compose UI Testing
 
 Adaptive Compose UI for Android, iOS, Web, and Desktop
 
-Responsive breakpoints, spacing, sizing, and typography
-
-Orientation-aware layouts and text enlargement
+Responsive breakpoints, adaptive values, orientation handling, and text enlargement
 
 KMP Compose Multiplatform Open Source Maven Central
 
@@ -108,9 +137,7 @@ KMP Compose Multiplatform Open Source Maven Central
 
 Offline playback with 500+ downloads
 
-Playlists, subtitles, PiP, and custom controls
-
-MotionLayout transitions and multi-format support
+Playlists, subtitles, PiP, custom controls, MotionLayout, and multi-format support
 
 Kotlin XML Media3 ExoPlayer MotionLayout
 
@@ -120,9 +147,7 @@ Kotlin XML Media3 ExoPlayer MotionLayout
 
 Android and iOS from a shared KMP foundation
 
-Media feed, profiles, notifications, and authentication
-
-Real-time Socket.IO chat with optimistic updates
+Media feed, authentication, notifications, and real-time Socket.IO chat
 
 KMP Compose Multiplatform Ktor Koin Socket.IO
 
@@ -132,9 +157,7 @@ KMP Compose Multiplatform Ktor Koin Socket.IO
 
 Shared Android, iOS, and Web frontend
 
-Vehicle, garage, service, and role-based workflows
-
-Ktor backend with PostgreSQL, JWT, and Docker
+Role-based vehicle/service workflows with Ktor, PostgreSQL, JWT, and Docker
 
 KMP Ktor PostgreSQL JWT Docker KitFlow
 
@@ -144,13 +167,7 @@ Logituit · Android Developer · Jun 2024 — Present
 
 Built production Android and KMP features across Kotlin, Java, XML, and Compose
 
-Established shared Android/iOS architecture and platform integrations
-
-Integrated AI media tools with real-time SSE progress
-
-Worked with FCM, APNs, Apple Sign-In, Accessibility Services, and MediaSession
-
-Delivered resilient API flows, SDK integrations, and Android/iOS releases
+Delivered shared Android/iOS architecture, AI/SSE media tools, platform integrations, and release builds
 
 📊 GitHub activity
 
@@ -169,13 +186,9 @@ Delivered resilient API flows, SDK integrations, and Android/iOS releases
 
 🔭 Building next
 
-KitFlow → Better adaptive Compose developer experience
+KitFlow + Garage XO → Adaptive Compose tooling and a shared Android/iOS/Web product
 
-Garage XO → Shared KMP product across Android, iOS, and Web
-
-DragCompose → Visual drag-and-drop tooling for Jetpack Compose
-
-DSA → Consistent interview-focused problem solving
+DragCompose + DSA → Visual Compose tooling and interview-focused problem solving
 
 <div align="center">
 
