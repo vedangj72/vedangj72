@@ -27,6 +27,37 @@
 
 </div>
 
+<div align="center">
+
+## 💜 A Special Milestone
+
+### <a href="https://github.com/vedangj72/KitFlow"><strong>KitFlow</strong></a>
+
+My very first open-source Kotlin Multiplatform SDK.
+
+What started as an idea while building production applications has grown into a reusable library focused on creating adaptive and responsive Compose UIs across **Android**, **iOS**, **Desktop**, and **Web**.
+
+This project marks the beginning of my open-source journey. Every star, issue, discussion, suggestion, and contribution helps shape KitFlow into a better library for the Kotlin community.
+
+Thank you for being part of this journey.
+
+<br>
+
+*My first open-source Kotlin Multiplatform SDK — built in public and continuously evolving with the community.*
+
+<br><br>
+
+If you're here, I'd love for you to explore <a href="https://github.com/vedangj72/KitFlow"><strong>KitFlow</strong></a>. Your feedback, ideas, and suggestions are always welcome. If you find the project useful, consider giving it a star and contributing to help make it even better for the community.
+
+</div>
+
+<br>
+<br><br>
+
+---
+
+<br><br>
+
 👨‍💻 A little about me
 
 <img align="right" width="300" alt="Developer coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
