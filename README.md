@@ -1,23 +1,33 @@
 <div align="center">
 
+# Hey, I'm Vedang Joshi
 
+### Android & Kotlin Multiplatform Engineer
 
-
+Building mobile, web, backend, real-time, and developer-tooling projects with Kotlin and modern technologies.
 
 <p>
-  <a href="mailto:vedangjoshi772@gmail.com"><img src="https://img.shields.io/badge/Email-vedangjoshi772%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vedang-joshi-70117220b/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://itsmevedangjoshi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/vedangj72"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:vedangjoshi772@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vedangjoshi772%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedang-joshi-70117220b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://itsmevedangjoshi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/vedangj72">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
 </p>
-
-
 
 </div>
 
+---
+
 <div align="center">
 
-🐍 My contribution journey
+## 🐍 My contribution journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangj72/vedangj72/output/github-contribution-grid-snake-dark.svg" />
@@ -26,6 +36,8 @@
 </picture>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -51,14 +63,11 @@ If you're here, I'd love for you to explore <a href="https://github.com/vedangj7
 
 </div>
 
-<br>
-<br><br>
-
 ---
 
-<br><br>
+<div align="center">
 
-👨‍💻 A little about me
+## 👨‍💻 A little about me
 
 <img align="right" width="300" alt="Developer coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -68,11 +77,15 @@ If you're here, I'd love for you to explore <a href="https://github.com/vedangj7
 
 <br clear="right"/>
 
-🛠️ Technologies I work with
+</div>
+
+---
+
+## 🛠️ Technologies I work with
 
 <div align="center">
 
-Languages & web foundations
+### Languages & web foundations
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" title="Kotlin" />&nbsp;
@@ -83,9 +96,7 @@ Languages & web foundations
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
 </p>
 
-
-
-Android & multiplatform
+### Android & multiplatform
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" title="Android Studio" />&nbsp;
@@ -95,9 +106,7 @@ Android & multiplatform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" />
 </p>
 
-
-
-Frontend
+### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />&nbsp;
@@ -108,9 +117,7 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
 </p>
 
-
-
-Backend & realtime
+### Backend & realtime
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />&nbsp;
@@ -118,9 +125,7 @@ Backend & realtime
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" width="48" height="48" alt="Ktor" title="Ktor" />
 </p>
 
-
-
-Databases & storage
+### Databases & storage
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
@@ -129,13 +134,9 @@ Databases & storage
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite" />
 </p>
 
+### Architecture, libraries & testing
 
-
-Architecture, libraries & testing
-
-
-
-DevOps, cloud & tooling
+### DevOps, cloud & tooling
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;
@@ -146,91 +147,74 @@ DevOps, cloud & tooling
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" title="Postman" />
 </p>
 
-
-
 </div>
 
-🚀 Featured projects
+---
 
-📦 KitFlow — Open-source KMP SDK
+# 🚀 Featured projects
 
+### 📦 KitFlow — Open-source KMP SDK
 
+Adaptive Compose UI for Android, iOS, Web, and Desktop.
 
-Adaptive Compose UI for Android, iOS, Web, and Desktop
+Responsive breakpoints, adaptive values, orientation handling, and text enlargement.
 
-Responsive breakpoints, adaptive values, orientation handling, and text enlargement
+**KMP • Compose Multiplatform • Open Source • Maven Central**
 
-KMP Compose Multiplatform Open Source Maven Central
+---
 
-🎬 My Player — Published Android app
+### 🎬 My Player — Published Android app
 
+Offline playback with 500+ downloads.
 
+Playlists, subtitles, PiP, custom controls, MotionLayout, and multi-format support.
 
-Offline playback with 500+ downloads
+**Kotlin • XML • Media3 • ExoPlayer • MotionLayout**
 
-Playlists, subtitles, PiP, custom controls, MotionLayout, and multi-format support
+---
 
-Kotlin XML Media3 ExoPlayer MotionLayout
+### 💬 Fuse — KMP social app
 
-💬 Fuse — KMP social app
+Android and iOS from a shared KMP foundation.
 
+Media feed, authentication, notifications, and real-time Socket.IO chat.
 
+**KMP • Compose Multiplatform • Ktor • Koin • Socket.IO**
 
-Android and iOS from a shared KMP foundation
+---
 
-Media feed, authentication, notifications, and real-time Socket.IO chat
-
-KMP Compose Multiplatform Ktor Koin Socket.IO
-
-🚗 Garage XO — Full-stack KMP platform
-
-
-
-Shared Android, iOS, and Web frontend
-
-Role-based vehicle/service workflows with Ktor, PostgreSQL, JWT, and Docker
-
-KMP Ktor PostgreSQL JWT Docker KitFlow
-
-💼 Production highlights
-
-Logituit · Android Developer · Jun 2024 — Present
-
-Built production Android and KMP features across Kotlin, Java, XML, and Compose
-
-Delivered shared Android/iOS architecture, AI/SSE media tools, platform integrations, and release builds
-
-📊 GitHub activity
+# 📊 GitHub activity
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedangj72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Vedang's GitHub statistics" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangj72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Public repository languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=vedangj72&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedangj72&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedangj72&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 <sub>Language statistics represent public repositories—not overall proficiency.</sub>
 
 </div>
 
-🔭 Building next
+---
 
-KitFlow + Garage XO → Adaptive Compose tooling and a shared Android/iOS/Web product
+# 🔭 Building next
 
-DragCompose + DSA → Visual Compose tooling and interview-focused problem solving
+**KitFlow + Garage XO** → Adaptive Compose tooling and a shared Android/iOS/Web product.
+
+**DragCompose + DSA** → Visual Compose tooling and interview-focused problem solving.
+
+---
 
 <div align="center">
 
-🤝 Let's build something useful
+## 🤝 Let's build something useful
 
-Android • Kotlin Multiplatform • SDKs • Developer tooling
+**Android • Kotlin Multiplatform • SDKs • Developer tooling**
 
-Open to Mobile Engineer and SDE opportunities
-
-
-
-
+### Open to Mobile Engineer and SDE opportunities
 
 </div>
