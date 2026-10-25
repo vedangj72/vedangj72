@@ -205,7 +205,7 @@ Media feed, authentication, notifications, and real-time Socket.IO chat.
 
 **KitFlow + Garage XO** → Adaptive Compose tooling and a shared Android/iOS/Web product.
 
-**DragCompose + DSA** → Visual Compose tooling and interview-focused problem solving.
+**DragCompose ** → Visual Compose tool.
 
 ---
 
