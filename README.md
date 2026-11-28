@@ -41,25 +41,17 @@ Building mobile, web, backend, real-time, and developer-tooling projects with Ko
 
 <div align="center">
 
-## 💜 A Special Milestone
+## 💜 A Special Milestone — 3,000+ Downloads
 
-### <a href="https://github.com/vedangj72/KitFlow"><strong>KitFlow</strong></a>
+### [KitFlow](https://kitflow.in)
 
-My very first open-source Kotlin Multiplatform SDK.
+![Downloads](https://img.shields.io/badge/Downloads-3%2C000%2B-6F42C1?style=for-the-badge)
 
-What started as an idea while building production applications has grown into a reusable library focused on creating adaptive and responsive Compose UIs across **Android**, **iOS**, **Desktop**, and **Web**.
+My first open-source Kotlin Multiplatform UI SDK, featuring pre-built components, responsive layouts, and adaptive navigation for Compose Multiplatform.
 
-This project marks the beginning of my open-source journey. Every star, issue, discussion, suggestion, and contribution helps shape KitFlow into a better library for the Kotlin community.
+**[Official Website](https://kitflow.in) • [GitHub](https://github.com/vedangj72/KitFlow)**
 
-Thank you for being part of this journey.
-
-<br>
-
-*My first open-source Kotlin Multiplatform SDK — built in public and continuously evolving with the community.*
-
-<br><br>
-
-If you're here, I'd love for you to explore <a href="https://github.com/vedangj72/KitFlow"><strong>KitFlow</strong></a>. Your feedback, ideas, and suggestions are always welcome. If you find the project useful, consider giving it a star and contributing to help make it even better for the community.
+Thank you to everyone supporting my open-source journey! 💜
 
 </div>
 
